@@ -11,11 +11,10 @@ Com o DW já criado, identificadas as tabelas e selecionados os atributos dos da
 - Exportou os dados transformados nos Data Frames para arquivos no formato .csv como backups e para posterior conferência
 - Conectou ao Data Warehouse no MySQL e carregou os dados transformados dos Data Frames direto nele como tabelas de dados estruturados
 
+**Com os dados formatados carregados no Data Warehouse eu passei a ter os dados prontos para carregá-los ao Power BI ou até mesmo no Excel – via Power Query – para realizar todas as análises financeiras que eu precisasse realizar sem precisar perder tempo manipulando planilhas extraídas direto do sistema. Além disso, para ter os dados atualizados, bastava apenas reexecutar o script.**
 
 ***Nesse repositório segue um o Notebook com todo o script em Python do processo, com cada etapa documentada.***
 
-**Com os dados formatados carregados no Data Warehouse eu passei a ter os dados prontos para carregá-los ao Power BI ou até mesmo no Excel – via Power Query – para realizar todas as análises financeiras que eu precisasse realizar sem precisar perder tempo manipulando planilhas extraídas direto do sistema. Além disso, para ter os dados atualizados, bastava apenas reexecutar o script.**
-
-```
+``
 Competências: Excel, SQL, Python, ETL, Power BI.
-```
+``
