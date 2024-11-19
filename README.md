@@ -15,6 +15,4 @@ Com o DW já criado, identificadas as tabelas e selecionados os atributos dos da
 
 ***Nesse repositório segue um o Notebook com todo o script em Python do processo, com cada etapa documentada.***
 
-``
-Competências: Excel, SQL, Python, ETL, Power BI.
-``
+> Competências: Excel, SQL, Python, ETL, Power BI.
